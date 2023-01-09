@@ -1,0 +1,8 @@
+1. Professional Synopsis : "free text" 
+2. Experience Summary : This is auto-populated from ESS, employee will be required to validate.
+3. Skill : This is auto-populated from SPS. If not updated, employee will be required to first update his/her Skill and Primary Skill in SPS mandatorily. 
+4. Education : This is auto-populated from ESS, employee will be required to validate. 
+5. Certification : This is auto-populated from ESS, employee will be required to validate.
+6. Project Details : Employee will be required to update. 
+7. Trainings Attended : Employee will be required to update. 
+8. Other details : Employee will be required to update. 
